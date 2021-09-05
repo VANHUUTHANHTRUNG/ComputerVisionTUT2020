@@ -1,0 +1,2 @@
+# ComputerVisionTUT2020
+This course provides an introduction to computer vision including fundamentals of image formation &amp; filtering, feature detection &amp; matching, structure-from-motion &amp; image-based 3D modelling, motion estimation &amp; tracking, and object detection &amp; recognition. The course gives an overview of algorithms, models and methods, which are used in automatic analysis of visual data.
